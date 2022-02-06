@@ -113,8 +113,7 @@
             "defaultValue": "bala"
         },
         "adminPassword": {
-            "type": "securestring",
-            "defaultValue": "LongPassword-1"
+            "type": "securestring" 
         },
         "enableDHCP": {
             "type": "string",
